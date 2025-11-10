@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # --- KONSTANTA API (SESUAI DOKUMENTASI BARU) ---
-API_URL = "https://taraka.id/apigate/index.php" 
+API_URL = "https://taraka.id/apigate/nvidia.php" 
 
 # --- Data Prompt (Dipersingkat untuk kejelasan) ---
 PROMPT_OPTIONS = {
