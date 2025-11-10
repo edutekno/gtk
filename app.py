@@ -3,7 +3,7 @@ import requests
 
 # --- Konfigurasi Halaman ---
 st.set_page_config(
-    page_title="AI Guru Toolkits",
+    page_title="AI Guru Toolkit",
     layout="wide",
 )
 
